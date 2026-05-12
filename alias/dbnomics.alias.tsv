@@ -1,5 +1,4 @@
 alias	provider	dataset	series	description
-aluminum	WB	commodity_prices	FALUMINUM-1W	Aluminum Price Annual
 au.cpi	IMF	WEO:2024-10	AUS.PCPI.idx	Australia CPI Average Consumer Prices Index
 au.gdp	IMF	WEO:2024-10	AUS.NGDPD.us_dollars	Australia GDP Current Prices
 au.gdp.pc	IMF	WEO:2024-10	AUS.NGDPDPC.us_dollars	Australia GDP Per Capita Current Prices
@@ -26,7 +25,6 @@ cn.cpi	IMF	WEO:2024-10	CHN.PCPI.idx	China CPI Average Consumer Prices Index
 cn.gdp	IMF	WEO:2024-10	CHN.NGDPD.us_dollars	China GDP Current Prices
 cn.gdp.growth	IMF	WEO:2024-10	CHN.NGDP_RPCH.pcent_change	China GDP Growth Rate
 cn.gdp.pc	IMF	WEO:2024-10	CHN.NGDPDPC.us_dollars	China GDP Per Capita Current Prices
-copper	WB	commodity_prices	FCOPPER-1W	Copper Price Annual
 de.cpi	IMF	WEO:2024-10	DEU.PCPI.idx	Germany CPI Average Consumer Prices Index
 de.gdp	IMF	WEO:2024-10	DEU.NGDPD.us_dollars	Germany GDP Current Prices
 de.gdp.growth	IMF	WEO:2024-10	DEU.NGDP_RPCH.pcent_change	Germany GDP Growth Rate
@@ -41,7 +39,6 @@ fr.cpi	IMF	WEO:2024-10	FRA.PCPI.idx	France CPI Average Consumer Prices Index
 fr.gdp	IMF	WEO:2024-10	FRA.NGDPD.us_dollars	France GDP Current Prices
 fr.gdp.pc	IMF	WEO:2024-10	FRA.NGDPDPC.us_dollars	France GDP Per Capita Current Prices
 gbpusd	BIS	WS_XRU	M.GB.GBP.A	GBP/USD Exchange Rate Monthly
-gold	WB	commodity_prices	FGOLD-1W	Gold Price Annual
 imf.au.cpi	IMF	WEO:2024-10	AUS.PCPI.idx	Australia CPI Average Consumer Prices Index
 imf.au.gdp	IMF	WEO:2024-10	AUS.NGDPD.us_dollars	Australia GDP Current Prices
 imf.br.cpi	IMF	WEO:2024-10	BRA.PCPI.idx	Brazil CPI Average Consumer Prices Index
@@ -82,8 +79,6 @@ jp.cpi	IMF	WEO:2024-10	JPN.PCPI.idx	Japan CPI Average Consumer Prices Index
 jp.gdp	IMF	WEO:2024-10	JPN.NGDPD.us_dollars	Japan GDP Current Prices
 jp.gdp.growth	IMF	WEO:2024-10	JPN.NGDP_RPCH.pcent_change	Japan GDP Growth Rate
 jp.gdp.pc	IMF	WEO:2024-10	JPN.NGDPDPC.us_dollars	Japan GDP Per Capita Current Prices
-oil	WB	commodity_prices	FCRUDE_PETRO-1W	Crude Oil Price Annual
-silver	WB	commodity_prices	FSILVER-1W	Silver Price Annual
 uk.cpi	IMF	WEO:2024-10	GBR.PCPI.idx	UK CPI Average Consumer Prices Index
 uk.gdp	IMF	WEO:2024-10	GBR.NGDPD.us_dollars	UK GDP Current Prices
 uk.gdp.growth	IMF	WEO:2024-10	GBR.NGDP_RPCH.pcent_change	UK GDP Growth Rate
