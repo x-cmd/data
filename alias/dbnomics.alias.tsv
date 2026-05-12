@@ -4,6 +4,17 @@ au.cpi	IMF	WEO:2024-10	AUS.PCPI.idx	Australia CPI Average Consumer Prices Index
 au.gdp	IMF	WEO:2024-10	AUS.NGDP.national_currency	Australia GDP Current Prices
 au.gdp.pc	IMF	WEO:2024-10	AUS.NGDPPC.national_currency	Australia GDP Per Capita Current Prices
 audusd	BIS	WS_XRU	M.AU.AUD.A	AUD/USD Exchange Rate Monthly
+bis.audusd	BIS	WS_XRU	M.AU.AUD.A	AUD/USD Exchange Rate Monthly
+bis.cadusd	BIS	WS_XRU	M.CA.CAD.A	CAD/USD Exchange Rate Monthly
+bis.eurusd	BIS	WS_XRU	M.DE.EUR.A	EUR/USD Exchange Rate Monthly
+bis.gbpusd	BIS	WS_XRU	M.GB.GBP.A	GBP/USD Exchange Rate Monthly
+bis.usdcny	BIS	WS_XRU	M.CN.CNY.A	USD/CNY Exchange Rate Monthly
+bis.usdjpy	BIS	WS_XRU	M.JP.JPY.A	USD/JPY Exchange Rate Monthly
+bls.cpi	BLS	cu	CUSR0000SA0	US CPI All Urban Consumers All Items Monthly
+bls.jolts	BLS	jt	JTS000000000000000JOL	US JOLTS Job Openings Total Nonfarm Monthly
+bls.payrolls	BLS	ce	CES0000000001	US Total Nonfarm Payrolls Monthly
+bls.ppi	BLS	wp	WPUFD49504	US PPI Final Demand Monthly
+bls.unemployment	BLS	ln	LNS14000000	US Unemployment Rate Monthly
 br.cpi	IMF	WEO:2024-10	BRA.PCPI.idx	Brazil CPI Average Consumer Prices Index
 br.gdp	IMF	WEO:2024-10	BRA.NGDP.national_currency	Brazil GDP Current Prices
 br.gdp.pc	IMF	WEO:2024-10	BRA.NGDPPC.national_currency	Brazil GDP Per Capita Current Prices
@@ -21,11 +32,45 @@ de.gdp	IMF	WEO:2024-10	DEU.NGDP.national_currency	Germany GDP Current Prices
 de.gdp.growth	IMF	WEO:2024-10	DEU.NGDP_RPCH.pcent_change	Germany GDP Growth Rate
 de.gdp.pc	IMF	WEO:2024-10	DEU.NGDPPC.national_currency	Germany GDP Per Capita Current Prices
 eurusd	BIS	WS_XRU	M.DE.EUR.A	EUR/USD Exchange Rate Monthly
+fed.10y	FED	H15	RIFLGFCY10_N.M	US 10-Year Treasury Yield Monthly
+fed.2y	FED	H15	RIFLGFCY02_N.M	US 2-Year Treasury Yield Monthly
+fed.30y	FED	H15	RIFLGFCY30_N.M	US 30-Year Treasury Yield Monthly
+fed.3m	FED	H15	RIFLGFCM03_N.M	US 3-Month Treasury Yield Monthly
+fed.5y	FED	H15	RIFLGFCY05_N.M	US 5-Year Treasury Yield Monthly
 fr.cpi	IMF	WEO:2024-10	FRA.PCPI.idx	France CPI Average Consumer Prices Index
 fr.gdp	IMF	WEO:2024-10	FRA.NGDP.national_currency	France GDP Current Prices
 fr.gdp.pc	IMF	WEO:2024-10	FRA.NGDPPC.national_currency	France GDP Per Capita Current Prices
 gbpusd	BIS	WS_XRU	M.GB.GBP.A	GBP/USD Exchange Rate Monthly
 gold	WB	commodity_prices	FGOLD-1W	Gold Price Annual
+imf.au.cpi	IMF	WEO:2024-10	AUS.PCPI.idx	Australia CPI Average Consumer Prices Index
+imf.au.gdp	IMF	WEO:2024-10	AUS.NGDP.national_currency	Australia GDP Current Prices
+imf.br.cpi	IMF	WEO:2024-10	BRA.PCPI.idx	Brazil CPI Average Consumer Prices Index
+imf.br.gdp	IMF	WEO:2024-10	BRA.NGDP.national_currency	Brazil GDP Current Prices
+imf.ca.cpi	IMF	WEO:2024-10	CAN.PCPI.idx	Canada CPI Average Consumer Prices Index
+imf.ca.gdp	IMF	WEO:2024-10	CAN.NGDP.national_currency	Canada GDP Current Prices
+imf.cn.cpi	IMF	WEO:2024-10	CHN.PCPI.idx	China CPI Average Consumer Prices Index
+imf.cn.gdp	IMF	WEO:2024-10	CHN.NGDP.national_currency	China GDP Current Prices
+imf.cn.gdp.growth	IMF	WEO:2024-10	CHN.NGDP_RPCH.pcent_change	China GDP Growth Rate
+imf.de.cpi	IMF	WEO:2024-10	DEU.PCPI.idx	Germany CPI Average Consumer Prices Index
+imf.de.gdp	IMF	WEO:2024-10	DEU.NGDP.national_currency	Germany GDP Current Prices
+imf.de.gdp.growth	IMF	WEO:2024-10	DEU.NGDP_RPCH.pcent_change	Germany GDP Growth Rate
+imf.fr.cpi	IMF	WEO:2024-10	FRA.PCPI.idx	France CPI Average Consumer Prices Index
+imf.fr.gdp	IMF	WEO:2024-10	FRA.NGDP.national_currency	France GDP Current Prices
+imf.in.cpi	IMF	WEO:2024-10	IND.PCPI.idx	India CPI Average Consumer Prices Index
+imf.in.gdp	IMF	WEO:2024-10	IND.NGDP.national_currency	India GDP Current Prices
+imf.in.gdp.growth	IMF	WEO:2024-10	IND.NGDP_RPCH.pcent_change	India GDP Growth Rate
+imf.it.cpi	IMF	WEO:2024-10	ITA.PCPI.idx	Italy CPI Average Consumer Prices Index
+imf.it.gdp	IMF	WEO:2024-10	ITA.NGDP.national_currency	Italy GDP Current Prices
+imf.jp.cpi	IMF	WEO:2024-10	JPN.PCPI.idx	Japan CPI Average Consumer Prices Index
+imf.jp.gdp	IMF	WEO:2024-10	JPN.NGDP.national_currency	Japan GDP Current Prices
+imf.jp.gdp.growth	IMF	WEO:2024-10	JPN.NGDP_RPCH.pcent_change	Japan GDP Growth Rate
+imf.uk.cpi	IMF	WEO:2024-10	GBR.PCPI.idx	UK CPI Average Consumer Prices Index
+imf.uk.gdp	IMF	WEO:2024-10	GBR.NGDP.national_currency	UK GDP Current Prices
+imf.uk.gdp.growth	IMF	WEO:2024-10	GBR.NGDP_RPCH.pcent_change	UK GDP Growth Rate
+imf.us.cpi	IMF	WEO:2024-10	USA.PCPI.idx	US CPI Average Consumer Prices Index
+imf.us.gdp	IMF	WEO:2024-10	USA.NGDP.national_currency	US GDP Current Prices
+imf.us.gdp.growth	IMF	WEO:2024-10	USA.NGDP_RPCH.pcent_change	US GDP Growth Rate
+imf.us.gdp.pc	IMF	WEO:2024-10	USA.NGDPPC.national_currency	US GDP Per Capita Current Prices
 in.cpi	IMF	WEO:2024-10	IND.PCPI.idx	India CPI Average Consumer Prices Index
 in.gdp	IMF	WEO:2024-10	IND.NGDP.national_currency	India GDP Current Prices
 in.gdp.growth	IMF	WEO:2024-10	IND.NGDP_RPCH.pcent_change	India GDP Growth Rate
@@ -43,18 +88,19 @@ uk.cpi	IMF	WEO:2024-10	GBR.PCPI.idx	UK CPI Average Consumer Prices Index
 uk.gdp	IMF	WEO:2024-10	GBR.NGDP.national_currency	UK GDP Current Prices
 uk.gdp.growth	IMF	WEO:2024-10	GBR.NGDP_RPCH.pcent_change	UK GDP Growth Rate
 uk.gdp.pc	IMF	WEO:2024-10	GBR.NGDPPC.national_currency	UK GDP Per Capita Current Prices
+us.cpi	IMF	WEO:2024-10	USA.PCPI.idx	US CPI Average Consumer Prices Index
+us.gdp	IMF	WEO:2024-10	USA.NGDP.national_currency	US GDP Current Prices
+us.gdp.growth	IMF	WEO:2024-10	USA.NGDP_RPCH.pcent_change	US GDP Growth Rate
+us.gdp.pc	IMF	WEO:2024-10	USA.NGDPPC.national_currency	US GDP Per Capita Current Prices
 us.10y	FED	H15	RIFLGFCY10_N.M	US 10-Year Treasury Yield Monthly
 us.2y	FED	H15	RIFLGFCY02_N.M	US 2-Year Treasury Yield Monthly
 us.30y	FED	H15	RIFLGFCY30_N.M	US 30-Year Treasury Yield Monthly
 us.3m	FED	H15	RIFLGFCM03_N.M	US 3-Month Treasury Yield Monthly
 us.5y	FED	H15	RIFLGFCY05_N.M	US 5-Year Treasury Yield Monthly
-us.cpi	BLS	cu	CUSR0000SA0	US CPI All Urban Consumers All Items
-us.gdp	IMF	WEO:2024-10	USA.NGDP.national_currency	US GDP Current Prices
-us.gdp.growth	IMF	WEO:2024-10	USA.NGDP_RPCH.pcent_change	US GDP Growth Rate
-us.gdp.pc	IMF	WEO:2024-10	USA.NGDPPC.national_currency	United States GDP Per Capita Current Prices
-us.jolts	BLS	jt	JTS000000000000000JOL	US JOLTS Job Openings Total Nonfarm
-us.payrolls	BLS	ce	CES0000000001	US Total Nonfarm Payrolls
-us.ppi	BLS	wp	WPUFD49504	US PPI Final Demand
-us.unemployment	BLS	ln	LNS14000000	US Unemployment Rate
 usdcny	BIS	WS_XRU	M.CN.CNY.A	USD/CNY Exchange Rate Monthly
 usdjpy	BIS	WS_XRU	M.JP.JPY.A	USD/JPY Exchange Rate Monthly
+wb.aluminum	WB	commodity_prices	FALUMINUM-1W	Aluminum Price Annual
+wb.copper	WB	commodity_prices	FCOPPER-1W	Copper Price Annual
+wb.gold	WB	commodity_prices	FGOLD-1W	Gold Price Annual
+wb.oil	WB	commodity_prices	FCRUDE_PETRO-1W	Crude Oil Price Annual
+wb.silver	WB	commodity_prices	FSILVER-1W	Silver Price Annual
