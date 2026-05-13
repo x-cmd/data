@@ -99,3 +99,99 @@ wb.copper	WB	commodity_prices	FCOPPER-1W	Copper Price Annual
 wb.gold	WB	commodity_prices	FGOLD-1W	Gold Price Annual
 wb.oil	WB	commodity_prices	FCRUDE_PETRO-1W	Crude Oil Price Annual
 wb.silver	WB	commodity_prices	FSILVER-1W	Silver Price Annual
+imf.at.cpi	IMF	WEO:2024-10	AUT.PCPI.idx	AT CPI
+imf.at.gdp	IMF	WEO:2024-10	AUT.NGDPD.us_dollars	AT GDP
+imf.at.gdp.growth	IMF	WEO:2024-10	AUT.NGDP_RPCH.pcent_change	AT GDP Growth
+imf.at.gdp.pc	IMF	WEO:2024-10	AUT.NGDPDPC.us_dollars	AT GDP Per Capita
+imf.be.cpi	IMF	WEO:2024-10	BEL.PCPI.idx	BE CPI
+imf.be.gdp	IMF	WEO:2024-10	BEL.NGDPD.us_dollars	BE GDP
+imf.be.gdp.growth	IMF	WEO:2024-10	BEL.NGDP_RPCH.pcent_change	BE GDP Growth
+imf.be.gdp.pc	IMF	WEO:2024-10	BEL.NGDPDPC.us_dollars	BE GDP Per Capita
+imf.ch.cpi	IMF	WEO:2024-10	CHE.PCPI.idx	CH CPI
+imf.ch.gdp	IMF	WEO:2024-10	CHE.NGDPD.us_dollars	CH GDP
+imf.ch.gdp.growth	IMF	WEO:2024-10	CHE.NGDP_RPCH.pcent_change	CH GDP Growth
+imf.ch.gdp.pc	IMF	WEO:2024-10	CHE.NGDPDPC.us_dollars	CH GDP Per Capita
+imf.cz.cpi	IMF	WEO:2024-10	CZE.PCPI.idx	CZ CPI
+imf.cz.gdp	IMF	WEO:2024-10	CZE.NGDPD.us_dollars	CZ GDP
+imf.cz.gdp.growth	IMF	WEO:2024-10	CZE.NGDP_RPCH.pcent_change	CZ GDP Growth
+imf.cz.gdp.pc	IMF	WEO:2024-10	CZE.NGDPDPC.us_dollars	CZ GDP Per Capita
+imf.dk.cpi	IMF	WEO:2024-10	DNK.PCPI.idx	DK CPI
+imf.dk.gdp	IMF	WEO:2024-10	DNK.NGDPD.us_dollars	DK GDP
+imf.dk.gdp.growth	IMF	WEO:2024-10	DNK.NGDP_RPCH.pcent_change	DK GDP Growth
+imf.dk.gdp.pc	IMF	WEO:2024-10	DNK.NGDPDPC.us_dollars	DK GDP Per Capita
+imf.es.cpi	IMF	WEO:2024-10	ESP.PCPI.idx	ES CPI
+imf.es.gdp	IMF	WEO:2024-10	ESP.NGDPD.us_dollars	ES GDP
+imf.es.gdp.growth	IMF	WEO:2024-10	ESP.NGDP_RPCH.pcent_change	ES GDP Growth
+imf.es.gdp.pc	IMF	WEO:2024-10	ESP.NGDPDPC.us_dollars	ES GDP Per Capita
+imf.fi.cpi	IMF	WEO:2024-10	FIN.PCPI.idx	FI CPI
+imf.fi.gdp	IMF	WEO:2024-10	FIN.NGDPD.us_dollars	FI GDP
+imf.fi.gdp.growth	IMF	WEO:2024-10	FIN.NGDP_RPCH.pcent_change	FI GDP Growth
+imf.fi.gdp.pc	IMF	WEO:2024-10	FIN.NGDPDPC.us_dollars	FI GDP Per Capita
+imf.gr.cpi	IMF	WEO:2024-10	GRC.PCPI.idx	GR CPI
+imf.gr.gdp	IMF	WEO:2024-10	GRC.NGDPD.us_dollars	GR GDP
+imf.gr.gdp.growth	IMF	WEO:2024-10	GRC.NGDP_RPCH.pcent_change	GR GDP Growth
+imf.gr.gdp.pc	IMF	WEO:2024-10	GRC.NGDPDPC.us_dollars	GR GDP Per Capita
+imf.hu.cpi	IMF	WEO:2024-10	HUN.PCPI.idx	HU CPI
+imf.hu.gdp	IMF	WEO:2024-10	HUN.NGDPD.us_dollars	HU GDP
+imf.hu.gdp.growth	IMF	WEO:2024-10	HUN.NGDP_RPCH.pcent_change	HU GDP Growth
+imf.hu.gdp.pc	IMF	WEO:2024-10	HUN.NGDPDPC.us_dollars	HU GDP Per Capita
+imf.id.cpi	IMF	WEO:2024-10	IDN.PCPI.idx	ID CPI
+imf.id.gdp	IMF	WEO:2024-10	IDN.NGDPD.us_dollars	ID GDP
+imf.id.gdp.growth	IMF	WEO:2024-10	IDN.NGDP_RPCH.pcent_change	ID GDP Growth
+imf.id.gdp.pc	IMF	WEO:2024-10	IDN.NGDPDPC.us_dollars	ID GDP Per Capita
+imf.ie.cpi	IMF	WEO:2024-10	IRL.PCPI.idx	IE CPI
+imf.ie.gdp	IMF	WEO:2024-10	IRL.NGDPD.us_dollars	IE GDP
+imf.ie.gdp.growth	IMF	WEO:2024-10	IRL.NGDP_RPCH.pcent_change	IE GDP Growth
+imf.ie.gdp.pc	IMF	WEO:2024-10	IRL.NGDPDPC.us_dollars	IE GDP Per Capita
+imf.kr.cpi	IMF	WEO:2024-10	KOR.PCPI.idx	KR CPI
+imf.kr.gdp	IMF	WEO:2024-10	KOR.NGDPD.us_dollars	KR GDP
+imf.kr.gdp.growth	IMF	WEO:2024-10	KOR.NGDP_RPCH.pcent_change	KR GDP Growth
+imf.kr.gdp.pc	IMF	WEO:2024-10	KOR.NGDPDPC.us_dollars	KR GDP Per Capita
+imf.my.cpi	IMF	WEO:2024-10	MYS.PCPI.idx	MY CPI
+imf.my.gdp	IMF	WEO:2024-10	MYS.NGDPD.us_dollars	MY GDP
+imf.my.gdp.growth	IMF	WEO:2024-10	MYS.NGDP_RPCH.pcent_change	MY GDP Growth
+imf.my.gdp.pc	IMF	WEO:2024-10	MYS.NGDPDPC.us_dollars	MY GDP Per Capita
+imf.nl.cpi	IMF	WEO:2024-10	NLD.PCPI.idx	NL CPI
+imf.nl.gdp	IMF	WEO:2024-10	NLD.NGDPD.us_dollars	NL GDP
+imf.nl.gdp.growth	IMF	WEO:2024-10	NLD.NGDP_RPCH.pcent_change	NL GDP Growth
+imf.nl.gdp.pc	IMF	WEO:2024-10	NLD.NGDPDPC.us_dollars	NL GDP Per Capita
+imf.no.cpi	IMF	WEO:2024-10	NOR.PCPI.idx	NO CPI
+imf.no.gdp	IMF	WEO:2024-10	NOR.NGDPD.us_dollars	NO GDP
+imf.no.gdp.growth	IMF	WEO:2024-10	NOR.NGDP_RPCH.pcent_change	NO GDP Growth
+imf.no.gdp.pc	IMF	WEO:2024-10	NOR.NGDPDPC.us_dollars	NO GDP Per Capita
+imf.pl.cpi	IMF	WEO:2024-10	POL.PCPI.idx	PL CPI
+imf.pl.gdp	IMF	WEO:2024-10	POL.NGDPD.us_dollars	PL GDP
+imf.pl.gdp.growth	IMF	WEO:2024-10	POL.NGDP_RPCH.pcent_change	PL GDP Growth
+imf.pl.gdp.pc	IMF	WEO:2024-10	POL.NGDPDPC.us_dollars	PL GDP Per Capita
+imf.pt.cpi	IMF	WEO:2024-10	PRT.PCPI.idx	PT CPI
+imf.pt.gdp	IMF	WEO:2024-10	PRT.NGDPD.us_dollars	PT GDP
+imf.pt.gdp.growth	IMF	WEO:2024-10	PRT.NGDP_RPCH.pcent_change	PT GDP Growth
+imf.pt.gdp.pc	IMF	WEO:2024-10	PRT.NGDPDPC.us_dollars	PT GDP Per Capita
+imf.ro.cpi	IMF	WEO:2024-10	ROU.PCPI.idx	RO CPI
+imf.ro.gdp	IMF	WEO:2024-10	ROU.NGDPD.us_dollars	RO GDP
+imf.ro.gdp.growth	IMF	WEO:2024-10	ROU.NGDP_RPCH.pcent_change	RO GDP Growth
+imf.ro.gdp.pc	IMF	WEO:2024-10	ROU.NGDPDPC.us_dollars	RO GDP Per Capita
+imf.se.cpi	IMF	WEO:2024-10	SWE.PCPI.idx	SE CPI
+imf.se.gdp	IMF	WEO:2024-10	SWE.NGDPD.us_dollars	SE GDP
+imf.se.gdp.growth	IMF	WEO:2024-10	SWE.NGDP_RPCH.pcent_change	SE GDP Growth
+imf.se.gdp.pc	IMF	WEO:2024-10	SWE.NGDPDPC.us_dollars	SE GDP Per Capita
+imf.sg.cpi	IMF	WEO:2024-10	SGP.PCPI.idx	SG CPI
+imf.sg.gdp	IMF	WEO:2024-10	SGP.NGDPD.us_dollars	SG GDP
+imf.sg.gdp.growth	IMF	WEO:2024-10	SGP.NGDP_RPCH.pcent_change	SG GDP Growth
+imf.sg.gdp.pc	IMF	WEO:2024-10	SGP.NGDPDPC.us_dollars	SG GDP Per Capita
+imf.sk.cpi	IMF	WEO:2024-10	SVK.PCPI.idx	SK CPI
+imf.sk.gdp	IMF	WEO:2024-10	SVK.NGDPD.us_dollars	SK GDP
+imf.sk.gdp.growth	IMF	WEO:2024-10	SVK.NGDP_RPCH.pcent_change	SK GDP Growth
+imf.sk.gdp.pc	IMF	WEO:2024-10	SVK.NGDPDPC.us_dollars	SK GDP Per Capita
+imf.vn.cpi	IMF	WEO:2024-10	VNM.PCPI.idx	VN CPI
+imf.vn.gdp	IMF	WEO:2024-10	VNM.NGDPD.us_dollars	VN GDP
+imf.vn.gdp.growth	IMF	WEO:2024-10	VNM.NGDP_RPCH.pcent_change	VN GDP Growth
+imf.vn.gdp.pc	IMF	WEO:2024-10	VNM.NGDPDPC.us_dollars	VN GDP Per Capita
+imf.audusd	BIS	WS_XRU	M.AU.AUD.A	AUD/USD Monthly
+imf.cadusd	BIS	WS_XRU	M.CA.CAD.A	CAD/USD Monthly
+imf.cnyusd	BIS	WS_XRU	M.CN.CNY.A	CNY/USD Monthly
+imf.eurusd	BIS	WS_XRU	M.DE.EUR.A	EUR/USD Monthly
+imf.gbpusd	BIS	WS_XRU	M.GB.GBP.A	GBP/USD Monthly
+imf.jpyusd	BIS	WS_XRU	M.JP.JPY.A	JPY/USD Monthly
+imf.usdcny	BIS	WS_XRU	M.CN.CNY.A	USD/CNY Monthly
+imf.usdjpy	BIS	WS_XRU	M.JP.JPY.A	USD/JPY Monthly
