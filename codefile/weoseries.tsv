@@ -1,0 +1,14 @@
+suffix	subject	unit	description
+cpi	PCPI	idx	CPI Average Consumer Prices Index
+inflation	PCPIPCH	pcent_change	Inflation Average Consumer Prices (annual %)
+unemployment	LUR	pcent_total_labor_force	Unemployment Rate (% of labor force)
+gdp	NGDPD	us_dollars	GDP Current Prices (billions USD)
+gdp.growth	NGDP_RPCH	pcent_change	GDP Growth Rate (annual %)
+gdp.pc	NGDPDPC	us_dollars	GDP Per Capita Current Prices (USD)
+population	LP	persons	Population (millions)
+debt	GGXWDG_NGDP	pcent_gdp	General Government Gross Debt (% of GDP)
+savings	NGSD_NGDP	pcent_gdp	Gross National Savings (% of GDP)
+investment	NID_NGDP	pcent_gdp	Total Investment (% of GDP)
+exports	TX_RPCH	pcent_change	Volume of Exports Growth (annual %)
+imports	TM_RPCH	pcent_change	Volume of Imports Growth (annual %)
+ca	BCA_NGDPD	pcent_gdp	Current Account Balance (% of GDP)
