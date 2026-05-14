@@ -24,3 +24,13 @@ gov.expenditure	GGX	national_currency	General Government Total Expenditure (nati
 gov.expenditure.gdp	GGX_NGDP	pcent_gdp	General Government Total Expenditure (% of GDP)
 gov.net.lending	GGSB	national_currency	General Government Net Lending/Borrowing (national currency)
 gov.net.lending.gdp	GGSB_NPGDP	pcent_potential_gdp	General Government Net Lending/Borrowing (% of potential GDP)
+gov.net.debt	GGXWDN	national_currency	General Government Net Debt (national currency)
+gov.net.debt.gdp	GGXWDN_NGDP	pcent_gdp	General Government Net Debt (% of GDP)
+gov.balance	GGXCNL	national_currency	General Government Net Lending/Borrowing alternate (national currency)
+gov.balance.gdp	GGXCNL_NGDP	pcent_gdp	General Government Net Lending/Borrowing alternate (% of GDP)
+gdp.deflator	NGDP_D	idx	GDP Deflator Index
+ppp.pc.real	NGDPRPPPPC	purchasing_power_parity_2017_international_dollar	Real GDP Per Capita PPP (2017 intl $)
+ppp.share	PPPSH	pcent	Share of World GDP based on PPP (%)
+goods.exports	TXG_RPCH	pcent_change	Volume of Goods Exports Growth (annual %)
+goods.imports	TMG_RPCH	pcent_change	Volume of Goods Imports Growth (annual %)
+cpi.core	PCPIE	idx	Core CPI Index (excl. food & energy)
